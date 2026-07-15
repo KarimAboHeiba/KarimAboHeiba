@@ -1,59 +1,71 @@
-````markdown
 <div align="center">
 
-# 👋 Hey, I'm Karim Aboheiba
+# 👋 Hi, I'm Karim Aboheiba
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Aspiring+Full-Stack+Web+Developer;Building+Projects+%26+Learning+Every+Day;Founder+of+VENTO+Clothing;Welcome+to+my+GitHub+Profile!" />
+### 💻 Computer Science Student | Front-End Developer in Progress 🚀
 
-<img src="https://komarev.com/ghpvc/?username=karimaboheiba&style=for-the-badge&color=blue"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Future+Front-End+Developer;Learning+Something+New+Every+Day.;Building+Real+Projects+🚀" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=karimaboheiba&label=Profile%20Views&style=for-the-badge&color=2563EB"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 ```javascript
 const karim = {
-    age: 19,
-    country: "Egypt 🇪🇬",
-    learning: [
+    name: "Karim Aboheiba",
+    location: "Egypt 🇪🇬",
+    university: "Damanhour University",
+    major: "Computer Science",
+    level: "Second Year",
+    focus: "Front-End Development",
+    currentlyLearning: [
         "HTML",
         "CSS",
         "JavaScript",
+        "Java",
         "Git",
         "GitHub"
     ],
-    goal: "Become a Professional Full-Stack Developer",
-   
-    hobbies: [
-        "Coding",
-        "Design",
-        "Learning New Skills",
-        "Building Projects"
-    ]
-}
-````
+    goal: "Become a Professional Front-End Developer",
+    funFact: "I believe consistency beats talent."
+};
+```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Current Roadmap
+
+* ✅ HTML5
+* ✅ CSS3
+* 🔄 JavaScript
+* 🔄 Git & GitHub
+* ⏳ React.js
+* ⏳ TypeScript
+* ⏳ Next.js
+
+---
+
+# 🛠 Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,figma&perline=8"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karimaboheiba&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=karimaboheiba&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimaboheiba&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimaboheiba&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -69,70 +81,66 @@ const karim = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karimaboheiba&theme=algolia&no-frame=true&row=1"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karimaboheiba&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karimaboheiba&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🎯 Current Goals
-
-* ✅ Master HTML & CSS
-* ✅ Improve JavaScript
-* ⏳ Learn React
-* ⏳ Learn Node.js
-* ⏳ Build 20+ Projects
-* ⏳ Launch My Portfolio
-* ⏳ Grow VENTO Clothing
-
----
-
-# 📚 Currently Learning
-
-* 🌐 Responsive Web Design
-* ⚡ Modern JavaScript
-* 🔥 Git & GitHub
-* 🎨 UI / UX Design
-
----
-
-# 🌍 Connect With Me
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://github-profile-trophy.vercel.app/?username=karimaboheiba&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* 🎯 Become a Professional Front-End Developer
+* 💼 Land My First Internship
+* 🌍 Build a Personal Portfolio Website
+* 🚀 Publish 20+ Real Projects
+* ⭐ Reach 500+ GitHub Contributions
+* 🤝 Contribute to Open Source
+* 📚 Learn React & Next.js
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/karim-aboheiba-4b693b392">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  
+
+<a href="mailto:kla27731@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
 </p>
+
+---
+
+# 💭 Favorite Quote
+
+> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
 
 ---
 
 <div align="center">
 
-## 💙 Quote
+### ⭐ Thanks for visiting my profile!
 
-> "Stay consistent. Small progress every day becomes big success."
-
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
 
 </div>
-```
