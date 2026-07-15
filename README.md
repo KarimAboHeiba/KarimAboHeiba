@@ -25,7 +25,7 @@ const karim = {
         "GitHub"
     ],
     goal: "Become a Professional Full-Stack Developer",
-    brand: "VENTO",
+   
     hobbies: [
         "Coding",
         "Design",
